@@ -8,6 +8,6 @@ def generate_fibonacci(length):
     return fibonacci_sequence
 
 # Example usage:
-desired_length = 20
+desired_length = 10
 result = generate_fibonacci(desired_length)
 print(result)
